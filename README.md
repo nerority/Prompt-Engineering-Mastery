@@ -49,7 +49,7 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 ### **Intermediate Level**
 
 - **Context Management**
-    - Context Retention
+    - [Context Retention](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I1.1-%E2%80%90-Context-Retention)
     - Relevance Maintenance
     - Strategies
 - **Creative Applications**
