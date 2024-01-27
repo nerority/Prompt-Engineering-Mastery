@@ -35,6 +35,8 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 3. **Advanced Techniques**: Delving into advanced methodologies for dynamic and context-rich prompt engineering.
 4. **Innovative Exploration**: Pioneering new ways to interact with LLMs, transcending conventional applications to explore uncharted territories of AI interaction.
 
+### Community
+
 ⭐ **Join Nerority's Discord**: For feedback, suggestions, discussion, curated information and more. Please feel free to join our discord channel and interact, this is an active server where you can learn more and discuss these topics amongst enthusiasts.
 
 **[Discord Invite](https://discord.gg/jBKjsqA6pb)**
