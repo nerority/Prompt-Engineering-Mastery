@@ -35,7 +35,7 @@ Achieving mastery in prompt engineering is a journey through progressively compl
     - [Command Types](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B1.2-%E2%80%90-Command-Types)
     - [Syntax Elements](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B1.3-%E2%80%90-Syntax-Elements)
 - **Simple Queries**
-    - Question Types
+    - [Question Types](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B2.1-%E2%80%90-Question-Types)
     - Response Structures
 - **Basic Conversations**
     - Dialogue Flow
