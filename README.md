@@ -2,6 +2,8 @@
   <h1>Ultimate Guide to Prompt Engineering Mastery</h1>
   <a href="https://nerority.com"><kbd>🟢 Website</kbd></a>
   <a href="https://www.linkedin.com/in/devin-pellegrino-gt/"><kbd>🔵 LinkedIn </kbd></a>
+  <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
+  <a href="https://discord.gg/jBKjsqA6pb"><kbd> ⚪ Discord </kbd></a>
   <h3><i>By Nerority</i></h3>
 </div>
 
@@ -13,13 +15,17 @@
   <h3><i>Cutting-edge Reference for Beginners to Experts</i></h3>
 </div>
 
+<div align="center">
+  <h3><b>Last Update</b>: 1/27/2024</h3>
+</div>
+
 ---
 
 Prompt engineering represents a frontier in the realm of artificial intelligence, where the art of crafting queries transforms into a science of eliciting precise, context-aware, and dynamically adaptive responses. Mastery in this field is about unlocking the full potential of an LLM to create meaningful, insightful, and innovative interactions.
 
 ### Defining Mastery
 
-Mastery in prompt engineering transcends basic command execution. It requires a deep understanding and skillful application of techniques to navigate the vast capabilities of the LLM, enabling the creation of prompts that are not just questions but conversations with purpose. Mastery involves:
+Mastery in this field transcends basic command execution. It requires a deep understanding and skillful application of techniques to navigate the vast capabilities of the LLM, enabling the creation of prompts that are not just questions but conversations with purpose. Mastery involves:
 
 - **Precision**: Crafting prompts that precisely target the desired information or response type.
 - **Context Awareness**: Incorporating and leveraging context effectively to produce relevant and coherent responses.
@@ -35,11 +41,11 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 3. **Advanced Techniques**: Delving into advanced methodologies for dynamic and context-rich prompt engineering.
 4. **Innovative Exploration**: Pioneering new ways to interact with LLMs, transcending conventional applications to explore uncharted territories of AI interaction.
 
-### Community
+### ⭐ Join the Discord
 
-⭐ **Join Nerority's Discord**: For feedback, suggestions, discussion, curated information and more. Please feel free to join our discord channel and interact, this is an active server where you can learn more and discuss these topics amongst enthusiasts.
+For feedback, suggestions, discussion, curated information and more. Please feel free to join our [discord channel](https://discord.gg/jBKjsqA6pb) and interact. 
 
-**[Discord Invite](https://discord.gg/jBKjsqA6pb)**
+This is an active server where you can learn more and discuss these topics amongst enthusiasts and skilled prompt engineers.
 
 ---
 
