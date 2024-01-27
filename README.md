@@ -1,4 +1,4 @@
-# Prompt Engineering Mastery
+# Ultimate Guide to Prompt Engineering Mastery
 
 **By**: Devin Pellegrino
 
