@@ -35,6 +35,8 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 
 ---
 
+# Prompt Engineering Mastery: Table of Contents
+
 ## **Fundamentals of Prompt Engineering**
 
 ### **Basic Level**
