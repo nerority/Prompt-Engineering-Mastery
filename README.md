@@ -31,7 +31,7 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 ### **Basic Level**
 
 - **Syntax Basics**
-    - Prompt Structure
+    - [Prompt Structure](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B1.1-%E2%80%90-Prompt-Structure)
     - Command Types
     - Syntax Elements
 - **Simple Queries**
