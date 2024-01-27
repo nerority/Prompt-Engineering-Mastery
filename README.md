@@ -44,9 +44,7 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 
 ### ⭐ Join the Discord
 
-For feedback, suggestions, discussion, curated information and more. Please feel free to join our [discord channel](https://discord.gg/jBKjsqA6pb) and interact. 
-
-This is an active server where you can learn more and discuss these topics amongst enthusiasts and skilled prompt engineers.
+For feedback, suggestions, discussion, curated information and more. Please feel free to join our [discord channel](https://discord.gg/jBKjsqA6pb) and interact. This is an active server where you can learn more and discuss these topics amongst enthusiasts and skilled prompt engineers.
 
 ---
 
