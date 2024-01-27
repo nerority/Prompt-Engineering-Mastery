@@ -163,6 +163,8 @@ Achieving mastery in prompt engineering is a journey through progressively compl
     - [Behavioral Pattern Recognition](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M4.4-%E2%80%90-Behavioral-Pattern-Recognition)
     - [AI Behavior Exploration](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M4.5-%E2%80%90-AI-Behavior-Exploration)
 
+---
+
 ## **2. Advanced Prompt Engineering Principles**
 
 ### Solution Space and Action Space
@@ -180,6 +182,8 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 
 - [Utilizing Explicit Instructions for Clarity](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE3.1-%E2%80%90-Utilizing-Explicit-Instructions-for-Clarity)
 - [Employing Implicit Guidance for Flexibility and Emergent Behavior](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE3.2-%E2%80%90-Employing-Implicit-Guidance)
+
+---
 
 ## **3. User-Centric AI Interaction and Learning**
 
