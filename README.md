@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/devin-pellegrino-gt/"><kbd>🔵 LinkedIn </kbd></a>
   <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
   <a href="https://discord.gg/jBKjsqA6pb"><kbd> ⚪ Discord </kbd></a>
-  <h3><i>By Nerority</i></h3>
+  <h3><i>By Devin Pellegrino</i></h3>
 </div>
 
 </br>
