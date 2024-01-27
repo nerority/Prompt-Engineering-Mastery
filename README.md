@@ -1,8 +1,17 @@
-# Ultimate Guide to Prompt Engineering Mastery
+<div align="center">
+  <h1>Ultimate Guide to Prompt Engineering Mastery</h1>
+  <a href="https://nerority.com"><kbd>🟢 Website</kbd></a>
+  <a href="https://www.linkedin.com/in/devin-pellegrino-gt/"><kbd>🔵 LinkedIn </kbd></a>
+  <h3><i>By Nerority</i></h3>
+</div>
 
-**Updated**: 01/27/24
+</br>
 
-**By**: Devin Pellegrino
+![g6](https://github.com/nerority/Prompt-Engineering-Mastery/assets/80237923/f8806b42-aa12-4518-8548-e998810cff61)
+
+<div align="center">
+  <h3><i>Cutting-edge Reference for Beginners to Experts</i></h3>
+</div>
 
 Prompt engineering represents a frontier in the realm of artificial intelligence, where the art of crafting queries transforms into a science of eliciting precise, context-aware, and dynamically adaptive responses. Mastery in this field is about unlocking the full potential of an LLM to create meaningful, insightful, and innovative interactions.
 
