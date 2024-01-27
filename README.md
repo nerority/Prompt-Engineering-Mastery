@@ -38,7 +38,7 @@ Achieving mastery in prompt engineering is a journey through progressively compl
     - [Question Types](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B2.1-%E2%80%90-Question-Types)
     - [Response Structures](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B2.2-%E2%80%90-Response-Structures)
 - **Basic Conversations**
-    - Dialogue Flow
+    - [Dialogue Flow](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B3.1-%E2%80%90-Dialogue-Flow)
     - Tone Setting
     - Context Awareness
 - **Applications**
