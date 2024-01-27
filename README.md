@@ -51,23 +51,23 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 - **Context Management**
     - [Context Retention](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I1.1-%E2%80%90-Context-Retention)
     - [Relevance Maintenance](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I1.2-%E2%80%90-Relevance-Maintenance)
-    - Strategies
+    - [Strategies](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I1.3-%E2%80%90-Context-Management-Strategies)
 - **Creative Applications**
-    - Genre Exploration
-    - Creative Styles
-    - Prompt Template Mechanics and Workflows
-    - Techniques
-    - Creative Prompt Applications
+    - [Genre Exploration](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I2.1-%E2%80%90-Genre-Exploration)
+    - [Creative Styles](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I2.2-%E2%80%90-Creative-Styles)
+    - [Prompt Template Mechanics and Workflows](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I2.3-%E2%80%90-Prompt-Templates-&-Workflows)
+    - [Creative Prompt Applications](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I2.4-%E2%80%90-Creative-Prompt-Applications)
+    - [Techniques](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I2.5-%E2%80%90-Creative-Techniques)
 - **Conversational Logic**
-    - Logical Progression
-    - Emotional Intelligence
-    - Semantic Consistency
-    - Few-Shot Learning in Conversations
-    - Methodologies
+    - [Logical Progression](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.1-%E2%80%90-Logical-Progression)
+    - [Emotional Intelligence](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.2-%E2%80%90-Emotional-Intelligence)
+    - [Semantic Consistency](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.3-%E2%80%90-Semantic-Consistency)
+    - [Few-Shot Learning in Conversations](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.4-%E2%80%90-Few%E2%80%90Shot-Learning-in-Conversations)
+    - [Methodologies](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.5-%E2%80%90-Conversational-Logic-Methodologies)
 - **Applications**
-    - Contextual Conversations
-    - Creative Writing Basics
-    - Intermediate Problem-Solving
+    - [Advanced Contextual Conversations](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I4.1-%E2%80%90-Advanced-Contextual-Conversations)
+    - [Creative Writing Basics](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I4.2-%E2%80%90-Creative-Writing)
+    - [Intermediate Problem-Solving](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I4.3-%E2%80%90-Intermediate-Problem%E2%80%90Solving)
 
 ### **Advanced Level**
 
