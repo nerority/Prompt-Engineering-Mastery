@@ -97,31 +97,31 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 ### **Expert Level**
 
 - **Cross-Disciplinary Integration**
-    - [Integrated Cross-Domain Knowledge](xxx)
-    - [JSON Prompt Structures](xxx)
-    - [Matrix Representation](xxx)
-    - [Interdisciplinary Knowledge Synthesis](xxx)
-    - [Advanced Referencing](xxx)
-    - [Dynamic Prompting in Cross-Domain Integration](xxx)
-    - [Tailoring Prompts to Specific Domains](xxx)
-    - [Tailored Prompt Design for Specific Use Cases](xxx)
+    - [Integrated Cross-Domain Knowledge](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.1-%E2%80%90-Integrated-Cross%E2%80%90Domain-Knowledge)
+    - [JSON Prompt Structures](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.2-%E2%80%90-JSON-Prompt-Structures)
+    - [Matrix Representation](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.3-%E2%80%90-Matrix-Representation)
+    - [Interdisciplinary Knowledge Synthesis](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.4-%E2%80%90-Interdisciplinary-Knowledge-Synthesis)
+    - [Advanced Referencing](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.5-%E2%80%90-Advanced-Referencing)
+    - [Dynamic Prompting in Cross-Domain Integration](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.6-%E2%80%90-Dynamic-Prompting-in-Cross%E2%80%90Domain-Integration)
+    - [Tailoring Prompts to Specific Domains](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.7-%E2%80%90-Tailoring-Prompts-to-Specific-Domains)
+    - [Tailored Prompt Design for Specific Use Cases](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.8-%E2%80%90-Tailored-Prompt-Design-for-Specific-Use-Cases)
 - **Meta-Functional Control**
-    - [Mastering AI Toolset](xxx)
-    - [Resource Optimization](xxx)
-    - [Anchoring for Semantic Control](xxx)
-    - [Managing AI Behavior and Expectations](xxx)
-    - [Metamodeling in Prompt Engineering](xxx)
-    - [Holistic Zero-Shot Prompt Engineering](xxx)
-    - [Advanced Error Correction](xxx)
+    - [Mastering AI Toolset](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.1-%E2%80%90-Mastering-ChatGPT's-Toolkit)
+    - [Resource Optimization](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.2-%E2%80%90-Resource-Optimization)
+    - [Anchoring for Semantic Control](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.3-%E2%80%90-Anchoring-for-Semantic-Control)
+    - [Managing AI Behavior and Expectations](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.4-%E2%80%90-Managing-AI-Behavior-and-Expectations)
+    - [Metamodeling](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.5-%E2%80%90-Metamodeling)
+    - [Holistic Zero-Shot Prompt Engineering](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.6-%E2%80%90-Holistic-Zero%E2%80%90Shot-Prompt-Engineering)
+    - [Advanced Error Correction](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.7-%E2%80%90-Advanced-Error-Correction)
 - **Advanced Tool Utilization**
-    - [Response Optimization](xxx)
-    - [Tool Synergy](xxx)
-    - [Advanced Application Development](xxx)
-    - [Approaches](xxx)
+    - [Response Optimization](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E3.1-%E2%80%90-Response-Optimization)
+    - [Tool Synergy](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E3.2-%E2%80%90-Tool-Synergy)
+    - [Advanced Application Development](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E3.3-%E2%80%90-Advanced-Application-Development)
+    - [Approaches](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E3.4-%E2%80%90-Approaches)
 - **Applications**
-    - [Expert System Integration](xxx)
-    - [Cross-Domain Knowledge Synthesis](xxx)
-    - [Sophisticated Creative Processes](xxx)
+    - [Expert System Integration](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E4.1-%E2%80%90-Expert-System-Integration)
+    - [Cross-Domain Knowledge Synthesis](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E4.2-%E2%80%90-Cross%E2%80%90Domain-Knowledge-Synthesis)
+    - [Sophisticated Creative Processes](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E4.3-%E2%80%90-Sophisticated-Creative-Processes)
 
 ### **Master Level**
 
