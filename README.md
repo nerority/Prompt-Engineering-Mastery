@@ -72,26 +72,27 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 ### **Advanced Level**
 
 - **Advanced Prompt Design**
-    - [Multi-dimensional Queries](xxx)
-    - [Hypothetical and Conditional Structures](xxx)
-    - [Semantic Anchoring](xxx)
-    - [Few-Shot Mechanics](xxx)
-    - [High-Order Prompt Engineering](xxx)
-    - [Advanced Prompt Structures and Techniques](xxx)
+    - [Multi-dimensional Queries](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A1.1-%E2%80%90-Multi%E2%80%90dimensional-Queries)
+    - [Hypothetical and Conditional Structures](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A1.2-%E2%80%90-Hypothetical-and-Conditional-Structures)
+    - [Semantic Anchoring](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A1.3-%E2%80%90-Semantic-Anchoring)
+    - [Few-Shot Mechanics](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A1.4-%E2%80%90-Advanced-Few%E2%80%90Shot-Mechanics)
+    - [High-Order Prompt Engineering](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A1.5-%E2%80%90-High%E2%80%90Order-Prompt-Engineering)
+    - [Meta-Prompts](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A1.6-%E2%80%90-Meta-Prompts)
+    - [Advanced Prompt Structures and Techniques](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A1.7-%E2%80%90-Advanced-Prompt-Structures-and-Techniques)
 - **Complex Scenarios**
-    - [Sequential Task Management](xxx)
-    - [Scenario Simulation](xxx)
-    - [Strategies](xxx)
+    - [Sequential Task Management](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A2.1-%E2%80%90-Sequential-Task-Management)
+    - [Scenario Simulation](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A2.2-%E2%80%90-Scenario-Simulation)
+    - [Strategies](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A2.3-%E2%80%90-Strategies)
 - **Nuanced Dialogue**
-    - [Emotional Depth](xxx)
-    - [Complex Conversational Flows](xxx)
-    - [Advanced Attention Mechanics](xxx)
-    - [Approaches](xxx)
-    - [Collaborative and Dynamic Prompting](xxx)
+    - [Emotional Depth](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A3.1-%E2%80%90-Emotional-Depth)
+    - [Complex Conversational Flows](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A3.2-%E2%80%90-Complex-Conversational-Flows)
+    - [Advanced Attention Mechanics](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A3.3-%E2%80%90-Advanced-Attention-Mechanics)
+    - [Collaborative and Dynamic Prompting](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A3.4-%E2%80%90-Collaborative-and-Dynamic-Prompting)
+    - [Approaches](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A3.5-%E2%80%90-Approaches)
 - **Applications**
-    - [In-depth Conversational AI](xxx)
-    - [Advanced Problem-Solving](xxx)
-    - [Complex Creative Endeavors](xxx)
+    - [In-depth Conversational AI](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A4.1-%E2%80%90-In%E2%80%90depth-Conversational-AI)
+    - [Advanced Problem-Solving](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A4.2-%E2%80%90-Advanced-Problem%E2%80%90Solving)
+    - [Complex Creative Endeavors](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/A4.3-%E2%80%90-Complex-Creative-Endeavors)
 
 ### **Expert Level**
 
