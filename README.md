@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/devin-pellegrino-gt/"><kbd>🔵 LinkedIn </kbd></a>
   <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
   <a href="https://discord.gg/jBKjsqA6pb"><kbd> ⚪ Discord </kbd></a>
+  <br>
+  <a href="https://github.com/nerority/Prompt-Engineering-Mastery"><kbd> Prompt Engineering Guides </kbd></a>
+  <a href="https://github.com/nerority/Advanced-GPTs"><kbd> Advanced GPT Showcase </kbd></a>
   <h3><i>By Devin Pellegrino</i></h3>
 </div>
 
@@ -13,9 +16,6 @@
 
 <div align="center">
   <h3><i>Cutting-edge Reference for Beginners to Experts</i></h3>
-</div>
-
-<div align="center">
   <h3><b>Last Update</b>: 1/27/2024</h3>
 </div>
 
@@ -220,5 +220,13 @@ This is an active server where you can learn more and discuss these topics among
 - [Continuous Personalization](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC4.2-%E2%80%90-Continuous-Personalization)
 
 ---
+
+
+# Contact Me or Get Involved
+
+- [Website](https://www.nerority.com/)
+- [Discord](https://discord.gg/jBKjsqA6pb)
+- [LinkedIn](https://www.linkedin.com/company/nerority/)
+- [Patreon](https://www.patreon.com/Nerority)
 
 Devin Pellegrino @ 2024
