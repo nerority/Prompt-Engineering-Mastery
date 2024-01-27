@@ -50,7 +50,7 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 
 - **Context Management**
     - [Context Retention](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I1.1-%E2%80%90-Context-Retention)
-    - Relevance Maintenance
+    - [Relevance Maintenance](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I1.2-%E2%80%90-Relevance-Maintenance)
     - Strategies
 - **Creative Applications**
     - Genre Exploration
