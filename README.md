@@ -126,64 +126,68 @@ Achieving mastery in prompt engineering is a journey through progressively compl
 ### **Master Level**
 
 - **Quantum Logic**
-    - [Probabilistic Reasoning](xxx)
-    - [Quantum Entanglement Concepts](xxx)
-    - [Complexity Management](xxx)
-    - [Analogies in Zero-Shot Prompt Engineering](xxx)
-    - [Transcendent Logic Frameworks](xxx)
-    - [Applications](xxx)
+    - [Probabilistic Reasoning](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.1-%E2%80%90-Probabilistic-Reasoning)
+    - [Quantum Entanglement Concepts](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.2-%E2%80%90-Quantum-Entanglement-Concepts)
+    - [Complexity Management](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.3-%E2%80%90-Complexity-Management)
+    - [Analogies in Zero-Shot Prompt Engineering](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.4-%E2%80%90-Analogies-in-Zero%E2%80%90Shot-Prompt-Engineering)
+    - [Transcendent Logic Frameworks](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.5-%E2%80%90-Transcendent-Logic-Frameworks)
+    - [Applications](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.6-%E2%80%90-Applications)
 - **Systemic Integration**
-    - [Cross-Platform Interoperability](xxx)
-    - [Integrated System Design](xxx)
-    - [Applications](xxx)
+    - [Cross-Platform Interoperability](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M2.1-%E2%80%90-Cross%E2%80%90Platform-Interoperability)
+    - [Integrated System Design](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M2.2-%E2%80%90-Integrated-System-Design)
+    - [Applications](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M2.3-%E2%80%90-Applications)
 - **Predictive Modeling**
-    - [Scenario Analysis](xxx)
-    - [Outcome Optimization](xxx)
-    - [Applications](xxx)
-    - [Recursive Self-Improvement Prompts](xxx)
+    - [Outcome Optimization](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M3.1-%E2%80%90-Outcome-Optimization)
+    - [Scenario Analysis](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M3.2-%E2%80%90-Scenario-Analysis)
+    - [Recursive Self-Improvement Prompts](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M3.3-%E2%80%90-Recursive-Self%E2%80%90Improvement-Prompts)
+    - [Applications](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M3.4-%E2%80%90-Applications)
 - **Cognitive and Behavioral Modeling**
-    - [DSL and Enhanced Semantics](xxx)
-    - [Recursive Learning Prompts](xxx)
-    - [Cognitive Process Simulation](xxx)
-    - [Behavioral Pattern Recognition](xxx)
-    - [AI Behavior Exploration](xxx)
+    - [DSL and Enhanced Semantics](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M4.1-%E2%80%90-DSL-and-Enhanced-Semantics)
+    - [Recursive Learning Prompts](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M4.2-%E2%80%90-Recursive-Learning-Prompts)
+    - [Cognitive Process Simulation](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M4.3-%E2%80%90-Cognitive-Process-Simulation)
+    - [Behavioral Pattern Recognition](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M4.4-%E2%80%90-Behavioral-Pattern-Recognition)
+    - [AI Behavior Exploration](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M4.5-%E2%80%90-AI-Behavior-Exploration)
 
 ## **Advanced Prompt Engineering Principles**
 
 ### Solution Space and Action Space
 
-- [Strategic Framing and Management of Solution Spaces]
-- [Delimiting Action Spaces for Specific Task Execution]
-- [Matrix Representation for Prompt Engineering]
+- [Strategic Framing and Management of Solution Spaces](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE1.1-%E2%80%90-Solution-Spaces)
+- [Delimiting Action Spaces for Specific Task Execution](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE1.2-%E2%80%90-Action-Spaces)
+- [Matrix Representation for Prompt Engineering](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE1.3-%E2%80%90-Matrix-Representation)
 
 ### Operational Context Shaping
 
-- [Guiding AI with Operational Context]
-- [Balancing Explicit and Implicit Instructions]
+- [Guiding AI with Operational Context](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE2.1-%E2%80%90-Guiding-AI-with-Operational-Context)
+- [Balancing Explicit and Implicit Instructions](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE2.2-%E2%80%90-Balancing-Explicit-and-Implicit-Instructions)
 
 ### Explicit and Implicit Instruction
 
-- [Utilizing Explicit Instructions for Clarity]
-- [Employing Implicit Guidance for Flexibility and Emergent Behavior]
+- [Utilizing Explicit Instructions for Clarity](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE3.1-%E2%80%90-Utilizing-Explicit-Instructions-for-Clarity)
+- [Employing Implicit Guidance for Flexibility and Emergent Behavior](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE3.2-%E2%80%90-Employing-Implicit-Guidance)
 
 ## **User-Centric AI Interaction and Learning**
 
 ### Hyper-Personalization
 
-- [Adapting AI Behavior to Unique User Needs in Real-Time]
+- [Adapting AI Behavior to Unique User Needs in Real-Time](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC1.1-%E2%80%90-Adapting-AI-Behavior-to-Unique-User-Needs-in-Real%E2%80%90Time)
 
 ### Contextual Prime and Response
 
-- [Prime AI with Detailed Meta-Context]
-- [AI Acknowledgment and Adaptability within Operational Boundaries]
-- [Using Matrix Representation]
+- [Prime AI with Detailed Meta-Context](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC2.1-%E2%80%90-Prime-AI-with-Detailed-Meta%E2%80%90Context)
+- [AI Acknowledgment and Adaptability within Operational Boundaries](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC2.2-%E2%80%90-AI-Acknowledgment-and-Adaptability-within-Operational-Boundaries)
+- [Using Matrix Representation](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC2.3-%E2%80%90-Using-Matrix-Representation)
 
 ### Adaptive Learning and Tailoring
 
-- [AI Evolving Understanding Based on User Interactions]
-- [Refinement of AI Responses for Personalized Assistance]
+- [AI Evolving Understanding Based on User Interactions](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC3.1-%E2%80%90-AI-Evolving-Understanding-Based-on-User-Interactions)
+- [Refinement of AI Responses for Personalized Assistance](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC3.2-%E2%80%90-Refinement-of-AI-Responses-for-Personalized-Assistance)
 
 ### Few-Shot Learning for Personalization
 
-- [User-Specific Examples]
-- [Continuous Personalization]
+- [User-Specific Examples](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC4.1-%E2%80%90-User%E2%80%90Specific-Examples)
+- [Continuous Personalization](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/UC4.2-%E2%80%90-Continuous-Personalization)
+
+---
+
+Devin Pellegrino @ 2024
