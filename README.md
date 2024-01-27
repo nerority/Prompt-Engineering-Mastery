@@ -43,7 +43,7 @@ Achieving mastery in prompt engineering is a journey through progressively compl
     - [Context Awareness](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B3.3-%E2%80%90-Context-Awareness)
 - **Applications**
     - [Q&A](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B4.1-%E2%80%90-Q&A)
-    - [Simple Storytelling](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B4.2-%E2%80%90-Basic-Storytelling)
+    - [Simple Storytelling](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B4.2-%E2%80%90-Simple-Storytelling)
     - [Elementary Data Retrieval](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B4.3-%E2%80%90-Elementary-Data-Retrieval)
 
 ### **Intermediate Level**
