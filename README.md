@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ultimate Guide to Prompt Engineering Mastery</h1>
+  <h1>Ultimate Guide to Prompt Engineering</h1>
   <a href="https://nerority.com"><kbd>🟢 Website</kbd></a>
   <a href="https://www.linkedin.com/in/devin-pellegrino-gt/"><kbd>🔵 LinkedIn </kbd></a>
   <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
