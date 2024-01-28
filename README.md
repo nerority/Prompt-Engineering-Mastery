@@ -144,6 +144,7 @@ For feedback, suggestions, discussion, curated information and more. Please feel
     - [Tool Synergy](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E3.2-%E2%80%90-Tool-Synergy)
     - [Advanced Application Development](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E3.3-%E2%80%90-Advanced-Application-Development)
     - [Approaches](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E3.4-%E2%80%90-Approaches)
+    - [Prompt Template Conversion](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E3.5-%E2%80%90-Prompt-Template-Conversion)
 - **Applications**
     - [Expert System Integration](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E4.1-%E2%80%90-Expert-System-Integration)
     - [Cross-Domain Knowledge Synthesis](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E4.2-%E2%80%90-Cross%E2%80%90Domain-Knowledge-Synthesis)
