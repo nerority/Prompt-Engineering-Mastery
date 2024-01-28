@@ -189,6 +189,7 @@ For feedback, suggestions, discussion, curated information and more. Please feel
 
 - [Guiding AI with Operational Context](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE2.1-%E2%80%90-Guiding-AI-with-Operational-Context)
 - [Balancing Explicit and Implicit Instructions](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE2.2-%E2%80%90-Balancing-Explicit-and-Implicit-Instructions)
+- [Meta-Context in Conversational AI](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/PE2.3-%E2%80%90-Meta%E2%80%90Context-in-Conversational-AI)
 
 ### Explicit and Implicit Instruction
 
