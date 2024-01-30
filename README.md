@@ -159,7 +159,6 @@ For feedback, suggestions, discussion, curated information and more. Please feel
     - [Complexity Management](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.3-%E2%80%90-Complexity-Management)
     - [Analogies in Zero-Shot Prompt Engineering](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.4-%E2%80%90-Analogies-in-Zero%E2%80%90Shot-Prompt-Engineering)
     - [Transcendent Logic Frameworks](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.5-%E2%80%90-Transcendent-Logic-Frameworks)
-    - [Applications](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M1.6-%E2%80%90-Applications)
 - **Systemic Integration**
     - [Cross-Platform Interoperability](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M2.1-%E2%80%90-Cross%E2%80%90Platform-Interoperability)
     - [Integrated System Design](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/M2.2-%E2%80%90-Integrated-System-Design)
