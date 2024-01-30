@@ -89,7 +89,8 @@ For feedback, suggestions, discussion, curated information and more. Please feel
     - [Emotional Intelligence](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.2-%E2%80%90-Emotional-Intelligence)
     - [Semantic Consistency](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.3-%E2%80%90-Semantic-Consistency)
     - [Few-Shot Learning in Conversations](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.4-%E2%80%90-Few%E2%80%90Shot-Learning-in-Conversations)
-    - [Methodologies](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.5-%E2%80%90-Conversational-Logic-Methodologies)
+    - [Zero-Shot Prompting](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.5-%E2%80%90-Zero%E2%80%90Shot-Prompting)
+    - [Methodologies](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I3.6-%E2%80%90-Conversational-Logic-Methodologies)
 - **Applications**
     - [Advanced Contextual Conversations](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I4.1-%E2%80%90-Advanced-Contextual-Conversations)
     - [Creative Writing Basics](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/I4.2-%E2%80%90-Creative-Writing)
