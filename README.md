@@ -222,6 +222,16 @@ For feedback, suggestions, discussion, curated information and more. Please feel
 
 ---
 
+## **4. Advanced Topics**
+
+### Knowledge Representations
+
+- [Knowledge Maps](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/AT1.1-%E2%80%90-Knowledge-Maps)
+- [Semantic Graphs](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/AT1.2-%E2%80%90-Semantic-Graphs)
+- [Semantic Webs](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/AT1.3-%E2%80%90-Semantic-Webs)
+
+---
+
 <div align="center">
   <h2>Contact or Involvement</h2>
   <a href="https://nerority.com"><kbd>🟢 Website</kbd></a>
