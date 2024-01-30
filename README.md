@@ -231,6 +231,12 @@ For feedback, suggestions, discussion, curated information and more. Please feel
 - [Semantic Graphs](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/AT1.2-%E2%80%90-Semantic-Graphs)
 - [Semantic Webs](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/AT1.3-%E2%80%90-Semantic-Webs)
 
+### Meta-Techniques
+
+- [Dynamic Few Shots](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/AT2.1-%E2%80%90-Dynamic-Few-Shots)
+- [Self-Generated Chain of Thought](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/AT2.2-%E2%80%90-Self%E2%80%90Generated-Chain-of-Thought)
+- [Majority Vote Ensembling](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/AT2.3-%E2%80%90-Majority-Vote-Ensembling)
+
 ---
 
 <div align="center">
