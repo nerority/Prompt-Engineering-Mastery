@@ -71,6 +71,7 @@ For feedback, suggestions, discussion, curated information and more. Please feel
     - [Q&A](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B4.1-%E2%80%90-Q&A)
     - [Simple Storytelling](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B4.2-%E2%80%90-Simple-Storytelling)
     - [Elementary Data Retrieval](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B4.3-%E2%80%90-Elementary-Data-Retrieval)
+    - [LLM Configuration](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/B4.4-%E2%80%90-LLM-Configuration)
 
 ### **Intermediate Level**
 
