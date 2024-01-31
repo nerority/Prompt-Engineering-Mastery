@@ -17,7 +17,7 @@
 
 <div align="center">
   <h3><i>Cutting-edge Reference for Beginners to Experts</i></h3>
-  <h3><b>Last Update</b>: 1/29/2024</h3>
+  <h3><b>Last Update</b>: 1/30/2024</h3>
 </div>
 
 ---
