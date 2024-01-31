@@ -134,7 +134,7 @@ For feedback, suggestions, discussion, curated information and more. Please feel
     - [Tailoring Prompts to Specific Domains](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.7-%E2%80%90-Tailoring-Prompts-to-Specific-Domains)
     - [Tailored Prompt Design for Specific Use Cases](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E1.8-%E2%80%90-Tailored-Prompt-Design-for-Specific-Use-Cases)
 - **Meta-Functional Control**
-    - [Mastering AI Toolset](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.1-%E2%80%90-Mastering-ChatGPT's-Toolkit)
+    - [Mastering GPT Toolset](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.1-%E2%80%90-Mastering-ChatGPT's-Toolkit)
     - [Resource Optimization](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.2-%E2%80%90-Resource-Optimization)
     - [Anchoring for Semantic Control](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.3-%E2%80%90-Anchoring-for-Semantic-Control)
     - [Managing AI Behavior and Expectations](https://github.com/nerority/Prompt-Engineering-Mastery/wiki/E2.4-%E2%80%90-Managing-AI-Behavior-and-Expectations)
