@@ -246,7 +246,7 @@ For feedback, suggestions, discussion, curated information and more. Please feel
   <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
   <a href="https://discord.gg/PbEuXjB6pN"><kbd> ⚪ Discord </kbd></a>
   <br>
-  <a href="https://github.com/nerority/Prompt-Engineering-Mastery"><kbd>Prompt Engineering</kbd></a>
+  <a href="https://github.com/nerority/M5"><kbd>M5 Model</kbd></a>
   <a href="https://github.com/nerority/Advanced-GPTs"><kbd>Advanced GPTs</kbd></a>
   <a href="https://github.com/nerority/AI-Library"><kbd>Template Library</kbd></a>
   <h3><i>By Devin Pellegrino @ 2024</i></h3>
